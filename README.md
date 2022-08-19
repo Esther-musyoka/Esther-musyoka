@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Esther-musyoka
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning data analysis with python.
+- 👀 I’m interested in coding, particularly python.
+- 🌱 I’m a data analyst with python.
 - 💞️ I’m looking to collaborate on any python project.
 - 📫 How to reach me,email: 00musyokaesher@gmail.com
 
